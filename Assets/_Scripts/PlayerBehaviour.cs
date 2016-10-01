@@ -20,7 +20,7 @@ public class PlayerBehaviour : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        //Rotare player with mouse
+        //Rotate player with mouse
         Rotation();
         Movement();
 	}
